@@ -1,0 +1,7 @@
+# checkpoints
+*.pt
+*.pth
+
+
+# datasets
+input.txt
